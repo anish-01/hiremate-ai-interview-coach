@@ -13,10 +13,10 @@ HireMate simulates real job interviews, provides personalized AI feedback,
 analyzes performance, and tracks progress over time.
 
 ## Tech Stack
-- Frontend: React.js (Vite)
-- Backend: Node.js + Express
-- Database: Supabase
-- AI: Anthropic Claude API
+- Frontend: React.js (Vite) + Tailwind CSS
+- Backend: Node.js + Express + JWT Authentication
+- Database: Supabase + Firebase
+- AI: Anthropic Claude, OpenAI, and Google Gemini APIs
 - Hosting: AWS / Google Cloud
 
 ## Project Structure
